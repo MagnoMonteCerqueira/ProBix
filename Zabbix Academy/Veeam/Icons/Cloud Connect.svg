@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_features" data-name="Veeam features" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00d15f;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Cloud_Connect" data-name="Cloud Connect">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-3" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <path class="cls-4" d="M32.01,20.92h-.07c-.97,0-1.79-.59-2.12-1.45-1.01-2.61-3.68-4.48-6.81-4.48-3.41,0-6.26,2.2-7.04,5.16-.16.61-.64,1.12-1.25,1.38-2.6,1.12-4.38,3.64-4.21,6.53.21,3.63,3.56,6.42,7.44,6.42h14.3c4.05,0,7.32-3.11,7.25-6.92-.07-3.74-3.5-6.66-7.49-6.66Z"/>
+    <g>
+      <line class="cls-1" x1="24.3" y1="26.77" x2="40.11" y2="26.77"/>
+      <line class="cls-1" x1="8.91" y1="26.77" x2="19.54" y2="26.77"/>
+      <circle class="cls-3" cx="24.3" cy="26.77" r="2.38"/>
+      <path class="cls-1" d="M27.86,30.33c-1.97,1.97-5.16,1.97-7.13,0-1.97-1.97-1.97-5.16,0-7.13,1.97-1.97,5.16-1.97,7.13,0"/>
+    </g>
+  </g>
+</svg>

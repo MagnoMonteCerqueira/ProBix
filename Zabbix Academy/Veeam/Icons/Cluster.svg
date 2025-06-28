@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Data_Center" data-name="Data Center" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Cluster_solid" data-name="Cluster solid">
+    <rect id="BG" class="cls-2" width="87" height="50"/>
+    <g>
+      <path class="cls-3" d="M49.58,6h-17.08c-1.1,0-2,.9-2,2v35.5c0,1.1.9,2,2,2h22c1.1,0,2-.9,2-2V12.9c0-.53-.21-1.04-.59-1.42l-4.92-4.9c-.37-.37-.88-.58-1.41-.58Z"/>
+      <g id="lines">
+        <g>
+          <line class="cls-1" x1="34.5" y1="16" x2="45.5" y2="16"/>
+          <line class="cls-1" x1="48.5" y1="16" x2="52.5" y2="16"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="34.5" y1="21" x2="45.5" y2="21"/>
+          <line class="cls-1" x1="48.5" y1="21" x2="52.5" y2="21"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="34.5" y1="26" x2="45.5" y2="26"/>
+          <line class="cls-1" x1="48.5" y1="26" x2="52.5" y2="26"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <path class="cls-3" d="M77.08,6h-17.08c-1.1,0-2,.9-2,2v35.5c0,1.1.9,2,2,2h22c1.1,0,2-.9,2-2V12.9c0-.53-.21-1.04-.59-1.42l-4.92-4.9c-.37-.37-.88-.58-1.41-.58Z"/>
+      <g id="lines-2" data-name="lines">
+        <g>
+          <line class="cls-1" x1="62" y1="16" x2="73" y2="16"/>
+          <line class="cls-1" x1="76" y1="16" x2="80" y2="16"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="62" y1="21" x2="73" y2="21"/>
+          <line class="cls-1" x1="76" y1="21" x2="80" y2="21"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="62" y1="26" x2="73" y2="26"/>
+          <line class="cls-1" x1="76" y1="26" x2="80" y2="26"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <path class="cls-3" d="M22.08,6H5c-1.1,0-2,.9-2,2v35.5c0,1.1.9,2,2,2h22c1.1,0,2-.9,2-2V12.9c0-.53-.21-1.04-.59-1.42l-4.92-4.9c-.37-.37-.88-.58-1.41-.58Z"/>
+      <g id="lines-3" data-name="lines">
+        <g>
+          <line class="cls-1" x1="7" y1="16" x2="18" y2="16"/>
+          <line class="cls-1" x1="21" y1="16" x2="25" y2="16"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="7" y1="21" x2="18" y2="21"/>
+          <line class="cls-1" x1="21" y1="21" x2="25" y2="21"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="7" y1="26" x2="18" y2="26"/>
+          <line class="cls-1" x1="21" y1="26" x2="25" y2="26"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

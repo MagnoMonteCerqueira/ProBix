@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="States" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Alert">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-2" d="M36.5,25c0,6.35-5.15,11.5-11.5,11.5s-11.5-5.15-11.5-11.5,5.15-11.5,11.5-11.5,11.5,5.15,11.5,11.5Z"/>
+    <g>
+      <circle class="cls-3" cx="24.97" cy="30.5" r="1.5"/>
+      <rect class="cls-3" x="23.97" y="17.5" width="2" height="10"/>
+    </g>
+  </g>
+</svg>

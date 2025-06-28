@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Hardware_components" data-name=" Hardware components" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="CPU">
+    <rect id="BG" class="cls-1" y="0" width="50" height="50"/>
+    <g>
+      <path class="cls-3" d="M41.5,15.5c-.55,0-1-.45-1-1v-1c0-.55.45-1,1-1h.5v-2.5c0-1.1-.9-2-2-2H10c-1.1,0-2,.9-2,2v2.5h.5c.55,0,1,.45,1,1v1c0,.55-.45,1-1,1h-.5v24.5c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2V15.5h-.5Z"/>
+      <path class="cls-2" d="M34.5,35.5H15.5c-.55,0-1-.45-1-1V15.5c0-.55.45-1,1-1h19c.55,0,1,.45,1,1v19c0,.55-.45,1-1,1ZM20.5,30.5h9c.55,0,1-.45,1-1v-9c0-.55-.45-1-1-1h-9c-.55,0-1,.45-1,1v9c0,.55.45,1,1,1Z"/>
+    </g>
+  </g>
+</svg>

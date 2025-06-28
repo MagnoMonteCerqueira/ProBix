@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="States" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="time">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-3" d="M36.5,25c0,6.35-5.15,11.5-11.5,11.5s-11.5-5.15-11.5-11.5,5.15-11.5,11.5-11.5,11.5,5.15,11.5,11.5Z"/>
+    <g>
+      <path class="cls-1" d="M25,32.43h-.02c-1.98,0-3.85-.78-5.25-2.19-1.4-1.41-2.17-3.28-2.16-5.26.01-4.09,3.34-7.41,7.43-7.41h.02c1.98,0,3.85.78,5.25,2.19,1.4,1.41,2.17,3.28,2.16,5.26,0,1.98-.78,3.85-2.19,5.25-1.4,1.39-3.26,2.16-5.24,2.16Z"/>
+      <polyline class="cls-1" points="24.91 19.83 24.91 25 30.04 25"/>
+    </g>
+  </g>
+</svg>

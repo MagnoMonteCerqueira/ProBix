@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Hardware_components" data-name=" Hardware components" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Chip">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <g>
+      <rect class="cls-3" x="8" y="8" width="34" height="34" rx="2" ry="2"/>
+      <g>
+        <path class="cls-2" d="M32.5,17c.28,0,.5.22.5.5v14.5c0,.28-.22.5-.5.5h-14.5c-.28,0-.5-.22-.5-.5v-14.5c0-.28.22-.5.5-.5h14.5M32.5,15.5h-14.5c-1.1,0-2,.9-2,2v14.5c0,1.1.9,2,2,2h14.5c1.1,0,2-.9,2-2v-14.5c0-1.1-.9-2-2-2h0Z"/>
+        <g>
+          <rect class="cls-2" x="35.25" y="18.75" width="1.5" height="3" transform="translate(56.25 -15.75) rotate(90)"/>
+          <rect class="cls-2" x="35.25" y="27.75" width="1.5" height="3" transform="translate(65.25 -6.75) rotate(90)"/>
+          <rect class="cls-2" x="35.25" y="23.25" width="1.5" height="3" transform="translate(60.75 -11.25) rotate(90)"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="13.75" y="18.75" width="1.5" height="3" transform="translate(34.75 5.75) rotate(90)"/>
+          <rect class="cls-2" x="13.75" y="27.75" width="1.5" height="3" transform="translate(43.75 14.75) rotate(90)"/>
+          <polygon class="cls-2" points="13 25.5 13 25 13 24 16 24 16 25.5 13 25.5"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="29" y="34" width="1.5" height="3" transform="translate(59.5 71) rotate(-180)"/>
+          <rect class="cls-2" x="20" y="34" width="1.5" height="3" transform="translate(41.5 71) rotate(-180)"/>
+          <rect class="cls-2" x="24.5" y="34" width="1.5" height="3" transform="translate(50.5 71) rotate(-180)"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="29" y="12.5" width="1.5" height="3" transform="translate(59.5 28) rotate(-180)"/>
+          <rect class="cls-2" x="20" y="12.5" width="1.5" height="3" transform="translate(41.5 28) rotate(-180)"/>
+          <rect class="cls-2" x="24.5" y="12.5" width="1.5" height="3" transform="translate(50.5 28) rotate(-180)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

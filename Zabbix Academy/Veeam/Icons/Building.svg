@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Building">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <g>
+      <path class="cls-2" d="M18.98,37V12c0-.96.79-1.75,1.75-1.75h15.77c.96,0,1.75.79,1.75,1.75v25h-19.27Z"/>
+      <path class="cls-4" d="M36.5,11c.55,0,1,.45,1,1v24.25h-17.77V12c0-.55.45-1,1-1h15.77M36.5,9.5h-15.77c-1.38,0-2.5,1.12-2.5,2.5v25.75h20.77V12c0-1.38-1.12-2.5-2.5-2.5h0Z"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M14,39.75c-.96,0-1.75-.79-1.75-1.75v-19.41c0-.96.79-1.75,1.75-1.75h7.28c.46,0,.91.19,1.24.51l3.72,3.72c.33.33.51.77.51,1.24v15.69c0,.96-.79,1.75-1.75,1.75h-11Z"/>
+      <path class="cls-4" d="M21.28,17.59c.27,0,.52.11.71.29l3.72,3.72c.19.19.29.44.29.71v15.69c0,.55-.45,1-1,1h-11c-.55,0-1-.45-1-1v-19.41c0-.55.45-1,1-1h7.28M21.28,16.09h-7.28c-1.38,0-2.5,1.12-2.5,2.5v19.41c0,1.38,1.12,2.5,2.5,2.5h11c1.38,0,2.5-1.12,2.5-2.5v-15.69c0-.67-.26-1.3-.73-1.77l-3.72-3.72c-.47-.47-1.1-.73-1.77-.73h0Z"/>
+    </g>
+    <line class="cls-1" x1="12.5" y1="23.5" x2="22.5" y2="23.5"/>
+    <line class="cls-1" x1="12.5" y1="28.45" x2="22.5" y2="28.45"/>
+    <line class="cls-1" x1="12.5" y1="33.5" x2="22.5" y2="33.5"/>
+    <rect class="cls-4" x="31" y="24.5" width="4" height="3"/>
+    <rect class="cls-4" x="31" y="13.5" width="4" height="3"/>
+    <rect class="cls-4" x="31" y="30.5" width="4" height="3"/>
+    <rect class="cls-4" x="25.5" y="13.5" width="4" height="3"/>
+    <rect class="cls-2" x="8.8" y="36.25" width="32.39" height="2.75"/>
+  </g>
+</svg>

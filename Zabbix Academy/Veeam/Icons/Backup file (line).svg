@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="failes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #505861;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="Backup_file_line" data-name="Backup file line">
+    <g>
+      <path class="cls-1" d="M33.09,5H11.87c-1.03,0-1.87.84-1.87,1.87v36.26c0,1.03.84,1.87,1.87,1.87h26.26c1.03,0,1.87-.84,1.87-1.87V11.91c0-.5-.2-.97-.55-1.32l-5.04-5.04c-.35-.35-.83-.55-1.32-.55Z"/>
+      <path class="cls-1" d="M40,12h-6.49c-.28,0-.51-.23-.51-.51v-6.49"/>
+    </g>
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <g>
+      <polygon class="cls-2" points="17.22 27.51 21.04 23.85 15.96 22.37 17.22 27.51"/>
+      <path class="cls-1" d="M17.74,24.25c1.14-3.24,4.22-5.42,7.66-5.42,4.48,0,8.12,3.64,8.12,8.12s-3.64,8.12-8.12,8.12c-2.25,0-4.35-.9-5.9-2.54"/>
+    </g>
+  </g>
+</svg>

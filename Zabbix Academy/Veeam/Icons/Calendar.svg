@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="Calendar">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <rect class="cls-2" x="10" y="10" width="30" height="30" rx="2" ry="2"/>
+    <g>
+      <rect class="cls-1" x="16" y="20.5" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="20.5" y="20.5" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="25" y="20.5" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="29.5" y="20.5" width="4.5" height="4.5"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="16" y="25" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="20.5" y="25" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="25" y="25" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="29.5" y="25" width="4.5" height="4.5"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="16" y="29.5" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="20.5" y="29.5" width="4.5" height="4.5"/>
+      <rect class="cls-1" x="25" y="29.5" width="4.5" height="4.5"/>
+    </g>
+    <line class="cls-1" x1="10" y1="15" x2="40" y2="15"/>
+  </g>
+</svg>

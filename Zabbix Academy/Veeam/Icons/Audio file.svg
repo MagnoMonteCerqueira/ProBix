@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="failes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Audio_file" data-name="Audio file">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <g>
+      <path class="cls-1" d="M33.09,5H11.87c-1.03,0-1.87.84-1.87,1.87v36.26c0,1.03.84,1.87,1.87,1.87h26.26c1.03,0,1.87-.84,1.87-1.87V11.91c0-.5-.2-.97-.55-1.32l-5.04-5.04c-.35-.35-.83-.55-1.32-.55Z"/>
+      <path class="cls-3" d="M37.89,12.62h-5.01c-.25,0-.44-.2-.44-.44v-5.01c0-.4.48-.59.76-.31l5.01,5.01c.28.28.08.76-.31.76Z"/>
+    </g>
+    <g>
+      <circle class="cls-4" cx="25" cy="27.25" r="8.75"/>
+      <rect class="cls-3" x="24.25" y="22.25" width="1.5" height="10"/>
+      <rect class="cls-3" x="27.25" y="23.75" width="1.5" height="7"/>
+      <rect class="cls-3" x="30.25" y="25.25" width="1.5" height="4"/>
+      <rect class="cls-3" x="21.25" y="23.75" width="1.5" height="7" transform="translate(44 54.5) rotate(-180)"/>
+      <rect class="cls-3" x="18.25" y="25.25" width="1.5" height="4" transform="translate(38 54.5) rotate(-180)"/>
+    </g>
+  </g>
+</svg>
