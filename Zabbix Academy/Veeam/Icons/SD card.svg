@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="SD_card" data-name="SD card">
+    <rect id="BG" class="cls-2" x="0" width="50" height="50"/>
+    <path class="cls-1" d="M36,28.5v-7h1v-9.5c0-1.1-.9-2-2-2h-16.13c-.53,0-1.03.21-1.41.58l-3.87,3.83c-.38.38-.59.89-.59,1.42v24.17h24v-11.5h-1Z"/>
+    <g>
+      <rect class="cls-3" x="31" y="13.5" width="1.5" height="5"/>
+      <rect class="cls-3" x="26.5" y="13.5" width="1.5" height="5"/>
+      <rect class="cls-3" x="22" y="13.5" width="1.5" height="5"/>
+      <rect class="cls-3" x="17.5" y="17" width="1.5" height="5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Hardware_components" data-name=" Hardware components" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Network_card" data-name="Network card">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-3" d="M43.5,14.5H10v-5h-2.5v25c0,1.1.9,2,2,2h2.5v-4.5h7.5v4.5h24c1.1,0,2-.9,2-2v-18c0-1.1-.9-2-2-2Z"/>
+    <path class="cls-2" d="M41,19v8h-7v-8h7M42.5,17.5h-10v11h10v-11h0Z"/>
+    <path class="cls-2" d="M28.5,19v8h-4v-8h4M30,17.5h-7v11h7v-11h0Z"/>
+    <rect class="cls-2" x="23" y="32" width="19.5" height="1.5"/>
+  </g>
+</svg>

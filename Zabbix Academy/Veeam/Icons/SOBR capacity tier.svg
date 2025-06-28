@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="datastores" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00d15f;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="SOBR_capacity_tier" data-name="SOBR capacity tier">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <g>
+      <path class="cls-4" d="M30.39,7H9.5c-1.1,0-2,.9-2,2v27c0,1.1.9,2,2,2h27c1.1,0,2-.9,2-2V15.11c0-.53-.21-1.04-.59-1.41l-6.11-6.11c-.38-.38-.88-.59-1.41-.59Z"/>
+      <g>
+        <rect class="cls-3" x="28.5" y="13.5" width="6.5" height="6.5"/>
+        <rect class="cls-3" x="10" y="13.5" width="6.5" height="6.5"/>
+        <rect class="cls-3" x="19.5" y="27" width="6.5" height="6.5"/>
+        <rect class="cls-3" x="14.63" y="16" width="15.5" height="1.5"/>
+        <rect class="cls-3" x="17.5" y="21.5" width="10.5" height="1.5" transform="translate(45 -.5) rotate(90)"/>
+      </g>
+    </g>
+    <path class="cls-1" d="M28.7,34.16h.05c.8,0,1.48-.52,1.75-1.26.84-2.28,3.04-3.9,5.64-3.9,2.82,0,5.18,1.92,5.82,4.5.13.54.53.98,1.04,1.21,2.15.98,3.62,3.17,3.48,5.7-.17,3.17-2.94,5.6-6.16,5.6h-11.83c-3.35,0-6.06-2.71-6-6.03.06-3.26,2.89-5.81,6.2-5.81Z"/>
+    <g>
+      <circle class="cls-3" cx="35.5" cy="34.5" r="2"/>
+      <path class="cls-3" d="M29.95,38.11l.24,3.24c.03.43.52.67.88.42l2.68-1.83c.36-.24.32-.79-.07-.97l-2.92-1.41c-.39-.19-.84.12-.81.55Z"/>
+      <rect class="cls-3" x="37.38" y="39.33" width="3.35" height="3.35" rx=".47" ry=".47" transform="translate(-11.22 14.94) rotate(-18.99)"/>
+    </g>
+  </g>
+</svg>

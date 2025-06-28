@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="States" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Paused">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-3" d="M36.5,25c0,6.35-5.15,11.5-11.5,11.5s-11.5-5.15-11.5-11.5,5.15-11.5,11.5-11.5,11.5,5.15,11.5,11.5Z"/>
+    <line class="cls-1" x1="22" y1="19" x2="22" y2="31"/>
+    <line class="cls-1" x1="28" y1="19" x2="28" y2="31"/>
+  </g>
+</svg>

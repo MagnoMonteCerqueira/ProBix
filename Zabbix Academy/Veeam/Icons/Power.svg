@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="States" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Powered_Saved" data-name="Powered/Saved">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <path class="cls-4" d="M36.5,25c0,6.35-5.15,11.5-11.5,11.5s-11.5-5.15-11.5-11.5,5.15-11.5,11.5-11.5,11.5,5.15,11.5,11.5Z"/>
+    <circle class="cls-1" cx="25" cy="25" r="6.12"/>
+    <rect class="cls-4" x="22.59" y="15.71" width="4.82" height="10.09"/>
+    <line class="cls-2" x1="25" y1="17.54" x2="25" y2="24.95"/>
+  </g>
+</svg>

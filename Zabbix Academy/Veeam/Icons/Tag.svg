@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="tag">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <rect class="cls-2" x="10" y="10" width="30" height="30" rx="2" ry="2"/>
+    <g>
+      <path class="cls-1" d="M22.24,33.55l-4.95-4.95c-.39-.39-.39-1.02,0-1.41l8.89-8.89c.19-.19.44-.29.71-.29h5.07c.56,0,1.01.46,1,1.02l-.11,4.94c0,.26-.11.5-.29.68l-8.9,8.9c-.39.39-1.02.39-1.41,0Z"/>
+      <circle class="cls-4" cx="28.36" cy="22.48" r="1.5"/>
+    </g>
+  </g>
+</svg>

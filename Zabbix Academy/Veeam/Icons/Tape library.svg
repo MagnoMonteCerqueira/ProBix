@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Tapes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Tape_library" data-name="Tape library">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <g id="Host_Server_solid" data-name="Host/Server solid">
+      <path class="cls-3" d="M32.08,5H13c-1.1,0-2,.9-2,2v36c0,1.1.9,2,2,2h24c1.1,0,2-.9,2-2V11.9c0-.53-.21-1.04-.59-1.42l-4.92-4.9c-.37-.37-.88-.58-1.41-.58Z"/>
+    </g>
+    <path class="cls-2" d="M24.5,23.5v3h-9v-3h9M26,22h-12v6h12v-6h0Z"/>
+    <path class="cls-2" d="M24.5,14.5v3h-9v-3h9M26,13h-12v6h12v-6h0Z"/>
+    <path class="cls-2" d="M33.5,14.5v12h-3v-12h3M35,13h-6v15h6v-15h0Z"/>
+    <path class="cls-2" d="M24.5,32.5v3h-9v-3h9M26,31h-12v6h12v-6h0Z"/>
+  </g>
+</svg>

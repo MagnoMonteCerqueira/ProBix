@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Transportation">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-1" d="M36.42,19.5h-2.17c-.55,0-1,.45-1,1v10.5c0,.55.45,1,1,1h6.5c.55,0,1-.45,1-1v-6.17c0-.27-.11-.52-.29-.71l-4.33-4.33c-.19-.19-.44-.29-.71-.29Z"/>
+    <rect class="cls-1" x="8.25" y="15.5" width="23.5" height="16.54" rx="1" ry="1"/>
+    <g>
+      <circle class="cls-1" cx="14.75" cy="32.5" r="3.25"/>
+      <path class="cls-3" d="M14.75,30c1.38,0,2.5,1.12,2.5,2.5s-1.12,2.5-2.5,2.5-2.5-1.12-2.5-2.5,1.12-2.5,2.5-2.5M14.75,28.5c-2.21,0-4,1.79-4,4s1.79,4,4,4,4-1.79,4-4-1.79-4-4-4h0Z"/>
+    </g>
+    <g>
+      <circle class="cls-1" cx="32.25" cy="32.5" r="3.25"/>
+      <path class="cls-3" d="M32.25,30c1.38,0,2.5,1.12,2.5,2.5s-1.12,2.5-2.5,2.5-2.5-1.12-2.5-2.5,1.12-2.5,2.5-2.5M32.25,28.5c-2.21,0-4,1.79-4,4s1.79,4,4,4,4-1.79,4-4-1.79-4-4-4h0Z"/>
+    </g>
+  </g>
+</svg>

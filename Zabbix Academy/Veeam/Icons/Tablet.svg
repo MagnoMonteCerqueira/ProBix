@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Data_Center" data-name="Data Center" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Tablet">
+    <rect id="BG" class="cls-1" y="0" width="50" height="50"/>
+    <g>
+      <path class="cls-3" d="M13,36h24v5c0,1.1-.9,2-2,2H15c-1.1,0-2-.9-2-2v-5h0Z"/>
+      <g>
+        <rect class="cls-2" x="13.75" y="7.75" width="22.5" height="30.5" rx="1.25" ry="1.25"/>
+        <path class="cls-3" d="M35,8.5c.28,0,.5.22.5.5v28c0,.28-.22.5-.5.5H15c-.28,0-.5-.22-.5-.5V9c0-.28.22-.5.5-.5h20M35,7H15c-1.1,0-2,.9-2,2v28c0,1.1.9,2,2,2h20c1.1,0,2-.9,2-2V9c0-1.1-.9-2-2-2h0Z"/>
+      </g>
+      <circle class="cls-2" cx="25" cy="40.5" r="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Storage_with_a_snapshot" data-name="Storage with a snapshot">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-1" d="M42.04,17.75c.13,0,.26.05.36.15l3.96,4.02c.09.09.14.22.14.35v4.98c0,.28-.22.5-.5.5H9c-.28,0-.5-.22-.5-.5v-9c0-.28.22-.5.5-.5h33.04M42.04,16.25H9c-1.1,0-2,.9-2,2v9c0,1.1.9,2,2,2h37c1.1,0,2-.9,2-2v-4.98c0-.53-.21-1.03-.58-1.4l-3.96-4.02c-.38-.38-.89-.6-1.42-.6h0Z"/>
+    <rect class="cls-3" x="43.5" y="25.75" width="1.5" height="3.5"/>
+    <rect class="cls-3" x="8" y="18.25" width="1.5" height="3.5" transform="translate(28.75 11.25) rotate(90)"/>
+    <g>
+      <path class="cls-1" d="M38.96,21.35l3.96,4.02c.37.37.58.88.58,1.4v4.98c0,1.1-.9,2-2,2H4.5c-1.1,0-2-.9-2-2v-9c0-1.1.9-2,2-2h33.04c.54,0,1.05.21,1.42.6Z"/>
+      <rect class="cls-3" x="5.24" y="26.51" width="6" height="1.5" transform="translate(35.5 19.03) rotate(90)"/>
+      <rect class="cls-3" x="10.25" y="26.51" width="6" height="1.5" transform="translate(40.51 14.01) rotate(90)"/>
+      <rect class="cls-3" x="15.25" y="26.51" width="6" height="1.5" transform="translate(45.51 9.01) rotate(90)"/>
+      <rect class="cls-3" x="20.25" y="26.51" width="6" height="1.5" transform="translate(50.51 4.01) rotate(90)"/>
+      <rect class="cls-3" x="25.25" y="26.51" width="6" height="1.5" transform="translate(55.51 -.99) rotate(90)"/>
+      <rect class="cls-3" x="30.25" y="26.51" width="6" height="1.5" transform="translate(60.51 -5.99) rotate(90)"/>
+    </g>
+  </g>
+</svg>

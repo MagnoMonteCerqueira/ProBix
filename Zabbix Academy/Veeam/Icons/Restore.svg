@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="States" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Restore">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-3" d="M36.5,25c0,6.35-5.15,11.5-11.5,11.5s-11.5-5.15-11.5-11.5,5.15-11.5,11.5-11.5,11.5,5.15,11.5,11.5Z"/>
+    <g>
+      <polygon class="cls-4" points="18.02 23.8 21.12 21.99 18 20.21 18.02 23.8"/>
+      <path class="cls-1" d="M18.87,22.02c1.17-2.2,3.49-3.69,6.15-3.69,3.85,0,6.97,3.12,6.97,6.97s-3.12,6.97-6.97,6.97c-2.66,0-4.98-1.49-6.15-3.69"/>
+    </g>
+  </g>
+</svg>

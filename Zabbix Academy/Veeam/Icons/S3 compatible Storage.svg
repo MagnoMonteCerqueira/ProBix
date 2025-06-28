@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="_S3_compatible_Storage" data-name=" S3 compatible Storage">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <rect class="cls-3" x="10.5" y="10.5" width="29" height="29" rx="2" ry="2"/>
+    <g>
+      <circle class="cls-2" cx="24.71" cy="15.05" r="2.05"/>
+      <path class="cls-2" d="M19.43,18l.22,3c.03.43.52.67.88.42l2.48-1.69c.36-.24.32-.79-.07-.97l-2.71-1.31c-.39-.19-.84.12-.81.55Z"/>
+      <rect class="cls-2" x="26.66" y="17.61" width="3.56" height="3.56" rx=".5" ry=".5" transform="translate(-4.76 10.31) rotate(-18.99)"/>
+    </g>
+    <path class="cls-2" d="M30.19,24.5c.66,0,1.14.63.96,1.26l-2.45,9c-.12.44-.51.74-.96.74h-5.47c-.45,0-.85-.3-.96-.74l-2.45-9c-.17-.64.31-1.26.96-1.26h10.38M30.19,23h-10.38c-.79,0-1.51.36-1.99.98-.48.62-.63,1.42-.43,2.18l2.45,9c.3,1.08,1.29,1.84,2.41,1.84h5.47c1.12,0,2.12-.76,2.41-1.84l2.45-9c.21-.76.05-1.55-.43-2.18-.48-.62-1.2-.98-1.99-.98h0Z"/>
+  </g>
+</svg>

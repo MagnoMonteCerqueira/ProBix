@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Software_1" data-name="Software 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00d15f;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #00d15f;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Microsoft_Active_Directory" data-name="Microsoft Active Directory">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-2" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <rect class="cls-3" x="16.83" y="16.83" width="16.34" height="16.34" transform="translate(25 -10.36) rotate(45)"/>
+      <circle class="cls-2" cx="24.99" cy="18.47" r="1.68"/>
+      <circle class="cls-2" cx="25" cy="31.57" r="1.68"/>
+      <circle class="cls-2" cx="18.31" cy="25" r="1.68"/>
+      <circle class="cls-2" cx="31.64" cy="25" r="1.68"/>
+      <line class="cls-4" x1="24.99" y1="18.86" x2="24.99" y2="30.44"/>
+      <polygon class="cls-4" points="25 31.57 18.37 24.94 24.92 18.4 31.58 25.06 25 31.57"/>
+    </g>
+  </g>
+</svg>

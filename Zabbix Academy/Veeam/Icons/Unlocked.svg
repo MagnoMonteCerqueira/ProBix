@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="States" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Unlocked">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-3" d="M36.5,25c0,6.35-5.15,11.5-11.5,11.5s-11.5-5.15-11.5-11.5,5.15-11.5,11.5-11.5,11.5,5.15,11.5,11.5Z"/>
+    <g>
+      <rect class="cls-1" x="27" y="19" width="4.04" height="9" rx="2.02" ry="2.02"/>
+      <rect class="cls-3" x="28.5" y="21.5" width="4" height="7"/>
+      <rect class="cls-4" x="20.5" y="22" width="9" height="8.5" rx="1" ry="1"/>
+      <path class="cls-3" d="M25.48,27.25h-1v-2c0-.28.22-.5.5-.5h0c.28,0,.5.22.5.5v2Z"/>
+    </g>
+  </g>
+</svg>

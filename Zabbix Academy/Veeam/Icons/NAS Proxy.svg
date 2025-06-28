@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_product_4" data-name="Veeam product 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="NAS_Proxy" data-name="NAS Proxy">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <path class="cls-2" d="M32.13,10H12c-1.1,0-2,.9-2,2v26c0,1.1.9,2,2,2h26c1.1,0,2-.9,2-2v-20.13c0-.53-.21-1.04-.59-1.41l-5.87-5.87c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <rect class="cls-1" x="19.75" y="21" width="10.5" height="8" rx="1" ry="1"/>
+      <rect class="cls-4" x="21.75" y="22.5" width="4.5" height="1"/>
+      <rect class="cls-4" x="21.75" y="26.5" width="4.5" height="1"/>
+      <rect class="cls-4" x="27.25" y="22.5" width="1" height="1" rx=".5" ry=".5"/>
+      <rect class="cls-4" x="27.25" y="26.5" width="1" height="1" rx=".5" ry=".5"/>
+      <line class="cls-1" x1="30.25" y1="25" x2="19.75" y2="25"/>
+    </g>
+    <g>
+      <g>
+        <polygon class="cls-4" points="13.2 23.29 17.8 19.83 12.5 17.57 13.2 23.29"/>
+        <path class="cls-1" d="M14.45,19.76c2.15-4.38,6.86-6.94,11.72-6.36s8.77,4.22,9.86,8.8"/>
+      </g>
+      <g>
+        <polygon class="cls-4" points="36.3 27.21 31.7 30.67 37 32.93 36.3 27.21"/>
+        <path class="cls-1" d="M35.05,30.74c-2.15,4.38-6.86,6.94-11.72,6.36s-8.77-4.22-9.86-8.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

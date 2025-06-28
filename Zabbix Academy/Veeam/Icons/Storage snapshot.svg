@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="Storage_snapshot" data-name="Storage snapshot">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <g>
+      <path class="cls-1" d="M39.54,20c.13,0,.26.05.36.15l3.96,4.02c.09.09.14.22.14.35v4.98c0,.28-.22.5-.5.5H6.5c-.28,0-.5-.22-.5-.5v-9c0-.28.22-.5.5-.5h33.04M39.54,18.5H6.5c-1.1,0-2,.9-2,2v9c0,1.1.9,2,2,2h37c1.1,0,2-.9,2-2v-4.98c0-.53-.21-1.03-.58-1.4l-3.96-4.02c-.38-.38-.89-.6-1.42-.6h0Z"/>
+      <rect class="cls-1" x="7.24" y="24.26" width="6" height="1.5" transform="translate(35.25 14.78) rotate(90)"/>
+      <rect class="cls-1" x="12.25" y="24.26" width="6" height="1.5" transform="translate(40.26 9.76) rotate(90)"/>
+      <rect class="cls-1" x="17.25" y="24.26" width="6" height="1.5" transform="translate(45.26 4.76) rotate(90)"/>
+      <rect class="cls-1" x="22.25" y="24.26" width="6" height="1.5" transform="translate(50.26 -.24) rotate(90)"/>
+      <rect class="cls-1" x="27.25" y="24.26" width="6" height="1.5" transform="translate(55.26 -5.24) rotate(90)"/>
+      <rect class="cls-1" x="32.25" y="24.26" width="6" height="1.5" transform="translate(60.26 -10.24) rotate(90)"/>
+    </g>
+  </g>
+</svg>

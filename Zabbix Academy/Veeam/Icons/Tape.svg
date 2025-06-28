@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Tapes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-4 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Tape">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <g>
+      <path class="cls-4" d="M44,32v-13.11c0-.53-.21-1.04-.59-1.41l-4.89-4.89c-.38-.38-.88-.59-1.41-.59H8c-1.1,0-2,.9-2,2v18h38Z"/>
+      <path class="cls-2" d="M6,33.5v2.5c0,1.1.9,2,2,2h34c1.1,0,2-.9,2-2v-2.5H6Z"/>
+    </g>
+    <g>
+      <circle class="cls-1" cx="16.51" cy="24.24" r="3.75"/>
+      <circle class="cls-1" cx="33.51" cy="24.24" r="3.75"/>
+      <line class="cls-1" x1="16.25" y1="20.5" x2="33.75" y2="20.5"/>
+    </g>
+  </g>
+</svg>

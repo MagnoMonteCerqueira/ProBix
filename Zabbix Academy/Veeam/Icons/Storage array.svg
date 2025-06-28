@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Storage_array" data-name="Storage array">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <g>
+      <path class="cls-1" d="M40.96,19.1l3.96,4.02c.37.37.58.88.58,1.4v4.98c0,1.1-.9,2-2,2H6.5c-1.1,0-2-.9-2-2v-9c0-1.1.9-2,2-2h33.04c.54,0,1.05.21,1.42.6Z"/>
+      <rect class="cls-3" x="7.24" y="24.26" width="6" height="1.5" transform="translate(35.25 14.78) rotate(90)"/>
+      <rect class="cls-3" x="12.25" y="24.26" width="6" height="1.5" transform="translate(40.26 9.76) rotate(90)"/>
+      <rect class="cls-3" x="17.25" y="24.26" width="6" height="1.5" transform="translate(45.26 4.76) rotate(90)"/>
+      <rect class="cls-3" x="22.25" y="24.26" width="6" height="1.5" transform="translate(50.26 -.24) rotate(90)"/>
+      <rect class="cls-3" x="27.25" y="24.26" width="6" height="1.5" transform="translate(55.26 -5.24) rotate(90)"/>
+      <rect class="cls-3" x="32.25" y="24.26" width="6" height="1.5" transform="translate(60.26 -10.24) rotate(90)"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M40.96,33.6l3.96,4.02c.37.37.58.88.58,1.4v4.98c0,1.1-.9,2-2,2H6.5c-1.1,0-2-.9-2-2v-9c0-1.1.9-2,2-2h33.04c.54,0,1.05.21,1.42.6Z"/>
+      <rect class="cls-3" x="7.24" y="38.76" width="6" height="1.5" transform="translate(49.75 29.28) rotate(90)"/>
+      <rect class="cls-3" x="12.25" y="38.76" width="6" height="1.5" transform="translate(54.76 24.26) rotate(90)"/>
+      <rect class="cls-3" x="17.25" y="38.76" width="6" height="1.5" transform="translate(59.76 19.26) rotate(90)"/>
+      <rect class="cls-3" x="22.25" y="38.76" width="6" height="1.5" transform="translate(64.76 14.26) rotate(90)"/>
+      <rect class="cls-3" x="27.25" y="38.76" width="6" height="1.5" transform="translate(69.76 9.26) rotate(90)"/>
+      <rect class="cls-3" x="32.25" y="38.76" width="6" height="1.5" transform="translate(74.76 4.26) rotate(90)"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M40.96,4.6l3.96,4.02c.37.37.58.88.58,1.4v4.98c0,1.1-.9,2-2,2H6.5c-1.1,0-2-.9-2-2V6c0-1.1.9-2,2-2h33.04c.54,0,1.05.21,1.42.6Z"/>
+      <rect class="cls-3" x="7.24" y="9.76" width="6" height="1.5" transform="translate(20.75 .28) rotate(90)"/>
+      <rect class="cls-3" x="12.25" y="9.76" width="6" height="1.5" transform="translate(25.76 -4.74) rotate(90)"/>
+      <rect class="cls-3" x="17.25" y="9.76" width="6" height="1.5" transform="translate(30.76 -9.74) rotate(90)"/>
+      <rect class="cls-3" x="22.25" y="9.76" width="6" height="1.5" transform="translate(35.76 -14.74) rotate(90)"/>
+      <rect class="cls-3" x="27.25" y="9.76" width="6" height="1.5" transform="translate(40.76 -19.74) rotate(90)"/>
+      <rect class="cls-3" x="32.25" y="9.76" width="6" height="1.5" transform="translate(45.76 -24.74) rotate(90)"/>
+    </g>
+  </g>
+</svg>

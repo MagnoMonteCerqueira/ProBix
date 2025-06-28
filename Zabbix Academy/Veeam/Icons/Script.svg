@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Script">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <rect class="cls-1" x="10" y="10" width="30" height="30" rx="2" ry="2"/>
+    <g>
+      <polygon class="cls-3" points="25.81 19.5 22.93 30.5 24.48 30.5 27.36 19.5 25.81 19.5"/>
+      <polygon class="cls-3" points="28.27 21.98 28.27 23.66 31.72 25.38 28.27 27.1 28.27 28.78 33.73 26.05 33.73 24.71 28.27 21.98"/>
+      <polygon class="cls-3" points="21.73 28.78 21.73 27.1 18.28 25.38 21.73 23.66 21.73 21.98 16.27 24.71 16.27 26.05 21.73 28.78"/>
+    </g>
+  </g>
+</svg>

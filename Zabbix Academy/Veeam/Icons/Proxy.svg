@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_product_4" data-name="Veeam product 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Proxy">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <path class="cls-2" d="M32.13,10H12c-1.1,0-2,.9-2,2v26c0,1.1.9,2,2,2h26c1.1,0,2-.9,2-2v-20.13c0-.53-.21-1.04-.59-1.41l-5.87-5.87c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <g>
+        <polygon class="cls-4" points="13.2 23.29 17.8 19.83 12.5 17.57 13.2 23.29"/>
+        <path class="cls-1" d="M14.45,19.76c2.15-4.38,6.86-6.94,11.72-6.36s8.77,4.22,9.86,8.8"/>
+      </g>
+      <g>
+        <polygon class="cls-4" points="36.3 27.21 31.7 30.67 37 32.93 36.3 27.21"/>
+        <path class="cls-1" d="M35.05,30.74c-2.15,4.38-6.86,6.94-11.72,6.36s-8.77-4.22-9.86-8.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

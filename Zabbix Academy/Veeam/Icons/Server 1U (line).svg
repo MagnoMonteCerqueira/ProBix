@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Data_Center" data-name="Data Center" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #505861;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Host_Server_line" data-name="Host/Server line">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-2" d="M42,20.5c.28,0,.5.22.5.5v7.5c0,.28-.22.5-.5.5H7.5c-.28,0-.5-.22-.5-.5v-4.17c0-.13.05-.26.15-.35l3.33-3.33c.09-.09.22-.15.35-.15h31.17M42,19H10.83c-.53,0-1.04.21-1.41.59l-3.33,3.33c-.38.38-.59.88-.59,1.41v4.17c0,1.1.9,2,2,2h34.5c1.1,0,2-.9,2-2v-7.5c0-1.1-.9-2-2-2h0Z"/>
+    <line class="cls-3" x1="34.52" y1="24.75" x2="9.5" y2="24.75"/>
+    <circle class="cls-2" cx="38" cy="24.5" r="1.5"/>
+  </g>
+</svg>

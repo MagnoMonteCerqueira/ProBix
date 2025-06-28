@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="failes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Metadata">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <g>
+      <path class="cls-2" d="M33.09,5H11.87c-1.03,0-1.87.84-1.87,1.87v36.26c0,1.03.84,1.87,1.87,1.87h26.26c1.03,0,1.87-.84,1.87-1.87V11.91c0-.5-.2-.97-.55-1.32l-5.04-5.04c-.35-.35-.83-.55-1.32-.55Z"/>
+      <path class="cls-4" d="M37.89,12.62h-5.01c-.25,0-.44-.2-.44-.44v-5.01c0-.4.48-.59.76-.31l5.01,5.01c.28.28.08.76-.31.76Z"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M21.74,35.21l-4.95-4.95c-.39-.39-.39-1.02,0-1.41l8.89-8.89c.19-.19.44-.29.71-.29h5.07c.56,0,1.01.46,1,1.02l-.11,4.94c0,.26-.11.5-.29.68l-8.9,8.9c-.39.39-1.02.39-1.41,0Z"/>
+      <circle class="cls-4" cx="27.86" cy="24.14" r="1.5"/>
+    </g>
+  </g>
+</svg>

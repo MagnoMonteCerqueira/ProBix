@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="USB">
+    <rect id="BG" class="cls-1" x="0" width="50" height="50"/>
+    <path class="cls-3" d="M32,32.5H9.5c-1.1,0-2-.9-2-2v-11c0-1.1.9-2,2-2h22.5c.55,0,1,.45,1,1v13c0,.55-.45,1-1,1Z"/>
+    <rect class="cls-3" x="34.5" y="21" width="8" height="8"/>
+    <rect class="cls-2" x="36.25" y="22" width="1.5" height="2.5"/>
+    <rect class="cls-2" x="36.25" y="25.5" width="1.5" height="2.5"/>
+    <circle class="cls-2" cx="12.25" cy="25" r="2"/>
+  </g>
+</svg>
