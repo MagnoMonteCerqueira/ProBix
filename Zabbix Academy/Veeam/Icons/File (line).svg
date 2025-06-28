@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="failes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #505861;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="File_line" data-name="File line">
+    <g>
+      <path class="cls-1" d="M33.09,5H11.87c-1.03,0-1.87.84-1.87,1.87v36.26c0,1.03.84,1.87,1.87,1.87h26.26c1.03,0,1.87-.84,1.87-1.87V11.91c0-.5-.2-.97-.55-1.32l-5.04-5.04c-.35-.35-.83-.55-1.32-.55Z"/>
+      <path class="cls-1" d="M40,12h-6.49c-.28,0-.51-.23-.51-.51v-6.49"/>
+    </g>
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="15" y="35.5" width="20" height="1.5"/>
+    <rect class="cls-2" x="15" y="29" width="20" height="1.5"/>
+    <rect class="cls-2" x="15" y="22.5" width="20" height="1.5"/>
+  </g>
+</svg>

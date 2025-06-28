@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_features" data-name="Veeam features" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Fast_Clone" data-name="Fast Clone">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-2" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <rect class="cls-3" x="15" y="12" width="7" height="7" transform="translate(3 34) rotate(-90)"/>
+      <rect class="cls-3" x="15" y="32" width="7" height="7" transform="translate(-17 54) rotate(-90)"/>
+      <rect class="cls-3" x="28.5" y="22" width="7" height="7" transform="translate(6.5 57.5) rotate(-90)"/>
+      <rect class="cls-3" x="18.5" y="20.5" width="6.5" height="1.5"/>
+      <rect class="cls-3" x="21" y="18" width="6.5" height="1.5" transform="translate(43 -5.5) rotate(90)"/>
+      <rect class="cls-3" x="21" y="31.5" width="6.5" height="1.5" transform="translate(-8 56.5) rotate(-90)"/>
+      <rect class="cls-3" x="18.5" y="29" width="6.5" height="1.5"/>
+    </g>
+  </g>
+</svg>

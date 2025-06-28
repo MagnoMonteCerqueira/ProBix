@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_product_4" data-name="Veeam product 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Data_mover" data-name="Data mover">
+    <rect id="BG" class="cls-2" x="0" width="50" height="50"/>
+    <g>
+      <path class="cls-3" d="M36.25,25c0,6.22-5.04,11.25-11.25,11.25s-11.25-5.04-11.25-11.25,5.04-11.25,11.25-11.25,11.25,5.04,11.25,11.25Z"/>
+      <g>
+        <polygon class="cls-4" points="17.97 23.81 20.77 21.7 17.54 20.32 17.97 23.81"/>
+        <path class="cls-1" d="M18.73,21.66c1.31-2.67,4.18-4.23,7.13-3.88s5.34,2.57,6,5.36"/>
+      </g>
+      <g>
+        <polygon class="cls-4" points="32.03 26.19 29.23 28.3 32.46 29.67 32.03 26.19"/>
+        <path class="cls-1" d="M31.27,28.34c-1.31,2.67-4.18,4.23-7.13,3.88s-5.34-2.57-6-5.36"/>
+      </g>
+    </g>
+    <path class="cls-4" d="M22.18,21.99h1.17l1.65,4.99h.03l1.64-4.99h1.16v6.03h-.79v-4.98h-.03l-1.67,4.98h-.75l-1.66-4.98h-.03v4.98h-.72v-6.03Z"/>
+  </g>
+</svg>

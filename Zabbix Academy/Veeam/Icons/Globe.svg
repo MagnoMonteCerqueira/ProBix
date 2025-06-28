@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #505861;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Globe">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <g>
+      <line class="cls-1" x1="14.5" y1="25" x2="35.5" y2="25"/>
+      <line class="cls-1" x1="16.39" y1="19.75" x2="33.94" y2="19.75"/>
+      <line class="cls-1" x1="16.26" y1="30.25" x2="33.94" y2="30.25"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M23.58,14.85s-6.17,9.52,0,20.62"/>
+      <path class="cls-1" d="M26.44,14.85s6.17,9.52,0,20.62"/>
+    </g>
+    <ellipse class="cls-1" cx="25.01" cy="25" rx="10.4" ry="10.5"/>
+  </g>
+</svg>

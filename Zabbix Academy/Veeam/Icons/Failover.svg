@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_features_2" data-name="Veeam features 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-4, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: GuardianSansCy-Semibold, 'Guardian Sans Cy';
+        font-size: 7.05px;
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Failover">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <rect class="cls-4" x="8" y="8" width="34" height="34" rx="2" ry="2"/>
+    <path class="cls-3" d="M37,13.5v23h-13.5V13.5h13.5M37,12h-13.5c-.83,0-1.5.67-1.5,1.5v23c0,.83.67,1.5,1.5,1.5h13.5c.83,0,1.5-.67,1.5-1.5V13.5c0-.83-.67-1.5-1.5-1.5h0Z"/>
+    <polygon class="cls-3" points="16.36 26 15.3 27.05 17.03 28.76 12.4 28.76 12.4 30.24 17.02 30.24 15.3 31.95 16.36 33 18.84 30.55 19.9 29.5 16.36 26"/>
+    <rect class="cls-3" x="25" y="17.5" width="7.5" height="1"/>
+    <rect class="cls-3" x="34" y="17.5" width="1.5" height="1"/>
+    <rect class="cls-3" x="25" y="20.5" width="7.5" height="1"/>
+    <rect class="cls-3" x="34" y="20.5" width="1.5" height="1"/>
+    <rect class="cls-3" x="25" y="23.5" width="7.5" height="1"/>
+    <rect class="cls-3" x="34" y="23.5" width="1.5" height="1"/>
+    <text class="cls-2" transform="translate(11.43 24.5)"><tspan x="0" y="0">DR</tspan></text>
+  </g>
+</svg>

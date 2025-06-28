@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Software_2" data-name="Software 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00cf5f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #00cf5f;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Database">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-1" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <g>
+        <rect class="cls-3" x="13.5" y="14" width="23" height="7" rx="1" ry="1"/>
+        <line class="cls-4" x1="36.5" y1="17.5" x2="28" y2="17.5"/>
+      </g>
+      <g>
+        <rect class="cls-3" x="13.5" y="22.5" width="23" height="7" rx="1" ry="1"/>
+        <line class="cls-4" x1="36.5" y1="26" x2="28" y2="26"/>
+      </g>
+      <g>
+        <rect class="cls-3" x="13.5" y="31" width="23" height="7" rx="1" ry="1"/>
+        <line class="cls-4" x1="36.5" y1="34.5" x2="28" y2="34.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

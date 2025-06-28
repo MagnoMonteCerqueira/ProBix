@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Hardware_components" data-name=" Hardware components" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Hardware">
+    <rect id="BG" class="cls-1" y="0" width="50" height="50"/>
+    <path class="cls-3" d="M42.5,13H8v-4.5h-2.5v26c0,1.1.9,2,2,2h5v-3.5h9v3.5h21c1.1,0,2-.9,2-2V15c0-1.1-.9-2-2-2Z"/>
+    <path class="cls-2" d="M36,18v3H14v-3h22M37.5,16.5H12.5v6h25v-6h0Z"/>
+    <path class="cls-2" d="M36,26.5v5h-8v-5h8M37.5,25h-11v8h11v-8h0Z"/>
+    <rect class="cls-2" x="40.5" y="16.5" width="1.5" height="16.5"/>
+    <rect class="cls-2" x="11" y="26" width="4.5" height="1.5" transform="translate(40 13.5) rotate(90)"/>
+    <rect class="cls-2" x="15" y="26" width="4.5" height="1.5" transform="translate(44 9.5) rotate(90)"/>
+  </g>
+</svg>

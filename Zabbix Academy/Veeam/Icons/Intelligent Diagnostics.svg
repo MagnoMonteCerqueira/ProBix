@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_features" data-name="Veeam features" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Veeam_One" data-name="Veeam One">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-3" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <line class="cls-1" x1="33" y1="31.75" x2="38" y2="36.25"/>
+      <circle class="cls-1" cx="24.25" cy="24.75" r="10.75"/>
+      <g>
+        <g>
+          <rect class="cls-4" x="29.5" y="26.5" width="1" height="4.5"/>
+          <rect class="cls-4" x="27.77" y="26.52" width="1" height="4.5" transform="translate(68.61 29.13) rotate(135)"/>
+          <rect class="cls-4" x="27.75" y="28.25" width="1" height="4.5" transform="translate(58.75 2.25) rotate(90)"/>
+        </g>
+        <g>
+          <rect class="cls-4" x="21" y="18" width="1" height="4.5"/>
+          <rect class="cls-4" x="19.27" y="18.02" width="1" height="4.5" transform="translate(48.09 20.63) rotate(135)"/>
+          <rect class="cls-4" x="19.25" y="19.75" width="1" height="4.5" transform="translate(41.75 2.25) rotate(90)"/>
+        </g>
+        <path class="cls-4" d="M24,18v1h5.5v5.5h1v-5.67c0-.46-.37-.83-.83-.83h-5.67Z"/>
+        <path class="cls-4" d="M24,31v-1h-5.5v-5.5h-1v5.67c0,.46.37.83.83.83h5.67Z"/>
+        <path class="cls-4" d="M23,25.5v2.5h-2.5v-2.5h2.5M24,24.5h-4.5v4.5h4.5v-4.5h0Z"/>
+        <path class="cls-4" d="M27.5,21v2.5h-2.5v-2.5h2.5M28.5,20h-4.5v4.5h4.5v-4.5h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage_2" data-name="Storage 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00cf5f;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #00cf5f;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="IBM_Object_Storage" data-name="IBM Object Storage">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <rect class="cls-1" x="8" y="8" width="34" height="34" rx="2" ry="2"/>
+    <g>
+      <path class="cls-3" d="M32.76,28.3l-7.13,3.7v-7.32l7.13-3.73v7.36Z"/>
+      <path class="cls-3" d="M24.45,32l-6.56-3.39v-7.32l6.56,3.39v7.32Z"/>
+      <path class="cls-3" d="M36.3,18.87l-6.91-3.55-2.3,1.17,6.75,3.47v12.42l2.45-1.25v-12.26Z"/>
+      <path class="cls-3" d="M32.76,29.55l-7.7,4-11.32-5.85-.04,3.47,11.28,5.77,7.77-3.96v-3.43Z"/>
+      <path class="cls-3" d="M28.11,14.68l-3.13-1.62-11.24,5.81-.04,7.59,3.06,1.54v-7.44l11.36-5.89Z"/>
+      <path class="cls-3" d="M25.06,23.74l-6-3.1,6.83-3.51,5.96,3.09-6.79,3.51Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="States" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Export">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-2" d="M36.5,25c0,6.35-5.15,11.5-11.5,11.5s-11.5-5.15-11.5-11.5,5.15-11.5,11.5-11.5,11.5,5.15,11.5,11.5Z"/>
+    <polygon class="cls-3" points="30.28 22.3 25.68 17.7 25.68 17.7 24.97 16.99 24.27 17.7 24.27 17.7 19.67 22.3 20.38 23.01 24.47 18.91 24.47 33.01 25.47 33.01 25.47 18.91 29.57 23.01 30.28 22.3"/>
+  </g>
+</svg>

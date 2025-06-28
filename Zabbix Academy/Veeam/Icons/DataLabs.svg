@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_features" data-name="Veeam features" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: GuardianSansCy-Bold, 'Guardian Sans Cy';
+        font-size: 4.67px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #00d15f;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-3, .cls-2, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="DataLabs">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <path class="cls-2" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <path class="cls-4" d="M27.5,21.5c-.02-.17-.02-6.5-.02-6.5.55,0,.99-.45.99-1h0c0-.55-.44-1-.99-1h-4.97c-.55,0-.99.45-.99,1h0c0,.55.44,1,.99,1,0,0,0,6.33-.02,6.5-3.96.71-7,4.32-7,8.5,0,4.69,3.78,8.5,8.44,8.5h2.11c4.66,0,8.44-3.81,8.44-8.5,0-4.18-3.04-7.79-7-8.5Z"/>
+    <path class="cls-2" d="M28.91,26.12c.36,0,.65.25.65.56v6.75c0,.31-.29.56-.65.56h-7.82c-.36,0-.65-.25-.65-.56v-6.75c0-.31.29-.56.65-.56h7.82M28.91,25.12h-7.82c-.91,0-1.65.7-1.65,1.56v6.75c0,.86.74,1.56,1.65,1.56h7.82c.91,0,1.65-.7,1.65-1.56v-6.75c0-.86-.74-1.56-1.65-1.56h0Z"/>
+    <text class="cls-1" transform="translate(21.36 32)"><tspan x="0" y="0">VM</tspan></text>
+  </g>
+</svg>

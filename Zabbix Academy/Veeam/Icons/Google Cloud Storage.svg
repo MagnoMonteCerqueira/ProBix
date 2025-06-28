@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Storage_2" data-name="Storage 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00cf5f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Google_Bucket" data-name="Google Bucket">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <rect class="cls-1" x="8" y="8" width="34" height="34" rx="2" ry="2"/>
+    <path class="cls-3" d="M30.73,13.08h-11.46c-.71,0-1.37.38-1.73,1l-5.73,9.92c-.36.62-.36,1.38,0,2l5.73,9.92c.36.62,1.02,1,1.73,1h11.46c.71,0,1.37-.38,1.73-1l5.73-9.92c.36-.62.36-1.38,0-2l-5.73-9.92c-.36-.62-1.02-1-1.73-1Z"/>
+    <g>
+      <g>
+        <rect class="cls-1" x="19.22" y="21" width="12" height="3"/>
+        <circle class="cls-3" cx="29.72" cy="22.5" r=".5"/>
+      </g>
+      <g>
+        <rect class="cls-1" x="19.22" y="26" width="12" height="3"/>
+        <circle class="cls-3" cx="29.72" cy="27.5" r=".5"/>
+      </g>
+    </g>
+  </g>
+</svg>

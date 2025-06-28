@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Folder_line" data-name="Folder line">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-2" d="M39.75,11.5c.28,0,.5.22.5.5v26c0,.27-.23.5-.5.5H10.25c-.28,0-.5-.22-.5-.5v-20.8c0-.65.54-1.18,1.2-1.18h10.95s.63,0,.63,0l.44-.45,3.67-3.72c.22-.22.54-.35.85-.35h12.27M39.75,10h-12.27c-.71,0-1.41.29-1.91.79l-3.67,3.73h-10.95c-1.49,0-2.7,1.21-2.7,2.68v20.8c0,1.1.9,2,2,2h29.5c1.1,0,2-.9,2-2V12c0-1.1-.9-2-2-2h0Z"/>
+  </g>
+</svg>

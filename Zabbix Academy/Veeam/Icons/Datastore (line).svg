@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="datastores" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #505861;
+      }
+    </style>
+  </defs>
+  <g id="Datastore_line" data-name="Datastore line">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <g>
+      <path class="cls-2" d="M38,8.5v5.5H12v-5.5h26M38.5,7H11.5c-.55,0-1,.45-1,1v6.5c0,.55.45,1,1,1h27c.55,0,1-.45,1-1v-6.5c0-.55-.45-1-1-1h0Z"/>
+      <path class="cls-2" d="M38,22v5.5H12v-5.5h26M38.5,20.5H11.5c-.55,0-1,.45-1,1v6.5c0,.55.45,1,1,1h27c.55,0,1-.45,1-1v-6.5c0-.55-.45-1-1-1h0Z"/>
+      <path class="cls-2" d="M38,35.5v5.5H12v-5.5h26M38.5,34H11.5c-.55,0-1,.45-1,1v6.5c0,.55.45,1,1,1h27c.55,0,1-.45,1-1v-6.5c0-.55-.45-1-1-1h0Z"/>
+      <rect class="cls-2" x="12.5" y="17" width="25" height="2" rx="1" ry="1"/>
+      <rect class="cls-2" x="12.5" y="30.5" width="25" height="2" rx="1" ry="1"/>
+    </g>
+  </g>
+</svg>
