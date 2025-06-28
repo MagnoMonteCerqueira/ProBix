@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Software_3" data-name="Software 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #00cf5f;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.3px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_--" data-name="--">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <path class="cls-1" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <circle class="cls-2" cx="25.31" cy="23.16" r="3.71"/>
+      <circle class="cls-2" cx="25.31" cy="29.15" r="2.28"/>
+      <polyline class="cls-4" points="27.13 26.39 30.61 30.29 30.61 38.23"/>
+      <polyline class="cls-4" points="23.51 26.4 20.05 30.29 20.05 38.23"/>
+      <polyline class="cls-4" points="28.6 25.45 32.87 27.7 35.45 32.93"/>
+      <polyline class="cls-4" points="21.87 25.45 17.6 27.7 15.02 32.93"/>
+      <polyline class="cls-4" points="28.65 20.95 31.26 19.08 28.25 12.76"/>
+      <polyline class="cls-4" points="22.06 20.95 19.45 19.08 22.46 12.76"/>
+      <polyline class="cls-4" points="29.06 23.7 33.32 21.45 35.91 16.22"/>
+      <polyline class="cls-4" points="21.6 23.7 17.33 21.45 14.74 16.22"/>
+    </g>
+  </g>
+</svg>

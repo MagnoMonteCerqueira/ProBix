@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_product_1" data-name="Veeam product 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00cf5f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Veeam_Backup_for_AHV" data-name="Veeam Backup for AHV">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <rect class="cls-1" x="8" y="8" width="34" height="34" rx="2" ry="2"/>
+    <rect class="cls-4" x="12.5" y="12.5" width="25" height="25" rx="1" ry="1"/>
+    <rect class="cls-1" x="23.5" y="10" width="3.5" height="29.5"/>
+    <rect class="cls-1" x="10.25" y="23.25" width="29.5" height="3.5"/>
+    <path class="cls-3" d="M21.62,31.04l-3.52-6.04,3.52-6.04,3.08,5.29h8.8l-3.67-6.3c-.18-.31-.52-.5-.88-.5h-7.62c-.36,0-.7.19-.88.5l-3.82,6.55c-.18.31-.18.7,0,1.01l3.81,6.55c.18.31.52.5.88.5h7.62c.36,0,.7-.19.88-.5l3.67-6.3h-8.8l-3.08,5.29Z"/>
+  </g>
+</svg>

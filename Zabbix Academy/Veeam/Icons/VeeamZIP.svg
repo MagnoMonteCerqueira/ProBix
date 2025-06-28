@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_features_2" data-name="Veeam features 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="VeeamZIP">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <rect class="cls-2" x="8" y="8" width="34" height="34" rx="2" ry="2"/>
+    <g>
+      <g>
+        <path class="cls-3" d="M15.5,14h19v21H15.5c-1.1,0-2-.9-2-2v-17c0-1.1.9-2,2-2Z"/>
+        <g>
+          <path class="cls-2" d="M16.57,21h1.59l1.71,5.14h.03l1.69-5.14h1.43l-2.44,7h-1.56l-2.44-7Z"/>
+          <path class="cls-2" d="M24.12,21h2.11l1.54,4.85h.04l1.53-4.85h2.09v7h-1.53v-5.15h-.03l-1.63,5.15h-1.17l-1.61-5.15h-.04v5.15h-1.3v-7Z"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-3" x="33.5" y="25" width="3" height="1"/>
+        <rect class="cls-3" x="33.5" y="22" width="3" height="1"/>
+        <rect class="cls-3" x="33.5" y="19" width="3" height="1"/>
+        <rect class="cls-3" x="33.5" y="16" width="3" height="1"/>
+        <rect class="cls-3" x="33.5" y="28" width="3" height="1"/>
+        <rect class="cls-3" x="33.5" y="31" width="3" height="1"/>
+        <path class="cls-3" d="M35.5,35v2.5h-1v-2.5h1M36.5,34h-3v4.5h3v-4.5h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

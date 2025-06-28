@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="VMs" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="vApp">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-1" d="M32.13,10H12c-1.1,0-2,.9-2,2v26c0,1.1.9,2,2,2h26c1.1,0,2-.9,2-2v-20.13c0-.53-.21-1.04-.59-1.41l-5.87-5.87c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <rect class="cls-1" x="14.25" y="15.75" width="8.5" height="8.5" rx=".25" ry=".25"/>
+      <path class="cls-3" d="M22,16.5v7h-7v-7h7M22.5,15h-8c-.55,0-1,.45-1,1v8c0,.55.45,1,1,1h8c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1h0Z"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="26.75" y="15.75" width="8.5" height="8.5" rx=".25" ry=".25"/>
+      <path class="cls-3" d="M34.5,16.5v7h-7v-7h7M35,15h-8c-.55,0-1,.45-1,1v8c0,.55.45,1,1,1h8c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1h0Z"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="14.25" y="27.75" width="8.5" height="8.5" rx=".25" ry=".25"/>
+      <path class="cls-3" d="M22,28.5v7h-7v-7h7M22.5,27h-8c-.55,0-1,.45-1,1v8c0,.55.45,1,1,1h8c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1h0Z"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="26.75" y="27.75" width="8.5" height="8.5" rx=".25" ry=".25"/>
+      <path class="cls-3" d="M34.5,28.5v7h-7v-7h7M35,27h-8c-.55,0-1,.45-1,1v8c0,.55.45,1,1,1h8c.55,0,1-.45,1-1v-8c0-.55-.45-1-1-1h0Z"/>
+    </g>
+    <circle class="cls-3" cx="24.75" cy="25.75" r="1.25"/>
+    <rect class="cls-3" x="21.33" y="25.33" width="7" height="1" transform="translate(25.54 -9.99) rotate(45)"/>
+    <rect class="cls-3" x="22.16" y="25.29" width="5.26" height="1" transform="translate(-10.97 25.08) rotate(-45)"/>
+  </g>
+</svg>

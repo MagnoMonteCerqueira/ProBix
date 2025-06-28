@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_product_3" data-name="Veeam product 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #00cf5f;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-family: GuardianSansCy-Semibold, 'Guardian Sans Cy';
+        font-size: 4.67px;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Veeam_Explorer_for_Oracle" data-name="Veeam Explorer for Oracle">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+  </g>
+  <g id="Veeam_Explorer_for_Oracle-2" data-name="Veeam Explorer for Oracle">
+    <rect id="BG-2" data-name="BG" class="cls-2" x="0" width="50" height="50"/>
+    <g>
+      <g>
+        <path class="cls-1" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+        <text class="cls-5" transform="translate(14.89 17.46)"><tspan x="0" y="0">OR</tspan><tspan class="cls-6" x="6.2" y="0">A</tspan><tspan x="9.14" y="0">CLE</tspan></text>
+        <path class="cls-4" d="M19.65,32.4c-3.74-.31-6.65-3.63-6.65-7.4,0-3.75,2.9-7.01,6.59-7.42.43-.05.87-.07,1.31-.07,2.82,0,5.63,0,8.45,0,4.06,0,7.26,2.96,7.62,7.03.32,3.67-2.41,7.13-6.21,7.84-.44.08-.9.12-1.36.12-1.47.01-2.94,0-4.41,0l-5.35-.1ZM24.95,29.87c1.4,0,2.8,0,4.2,0,2.79,0,4.95-2.1,5-4.81.05-2.66-2.08-4.87-4.83-4.92-2.88-.05-5.77-.05-8.66,0-2.74.05-4.87,2.28-4.82,4.94.06,2.69,2.21,4.78,4.96,4.8,1.38,0,2.76,0,4.14,0"/>
+      </g>
+      <g>
+        <path class="cls-3" d="M32.14,26.75c3.04,0,5.5,2.46,5.5,5.5s-2.46,5.5-5.5,5.5-5.5-2.46-5.5-5.5,2.46-5.5,5.5-5.5M32.14,25.25c-3.86,0-7,3.14-7,7s3.14,7,7,7,7-3.14,7-7-3.14-7-7-7h0Z"/>
+        <rect class="cls-4" x="36.64" y="35.03" width="1.5" height="4.95" transform="translate(-15.57 37.42) rotate(-45)"/>
+        <g>
+          <circle class="cls-3" cx="32.14" cy="32.25" r="5.5"/>
+          <path class="cls-4" d="M32.14,28.25c2.21,0,4,1.79,4,4s-1.79,4-4,4-4-1.79-4-4,1.79-4,4-4M32.14,26.75c-3.04,0-5.5,2.46-5.5,5.5s2.46,5.5,5.5,5.5,5.5-2.46,5.5-5.5-2.46-5.5-5.5-5.5h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

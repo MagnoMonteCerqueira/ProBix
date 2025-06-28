@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Miscellaneous" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        fill: #505861;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        opacity: 0;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Web_console" data-name="Web console">
+    <rect id="BG" class="cls-4" width="50" height="50"/>
+    <rect class="cls-3" x="10" y="10" width="30" height="30" rx="2" ry="2"/>
+    <g>
+      <circle class="cls-5" cx="37.25" cy="12.25" r=".75"/>
+      <circle class="cls-5" cx="34.25" cy="12.25" r=".75"/>
+      <circle class="cls-5" cx="31.25" cy="12.25" r=".75"/>
+    </g>
+    <line class="cls-2" x1="10" y1="15" x2="40" y2="15"/>
+    <g>
+      <ellipse class="cls-1" cx="25.01" cy="27.75" rx="8.13" ry="8.25"/>
+      <g>
+        <line class="cls-1" x1="16.79" y1="27.75" x2="33.21" y2="27.75"/>
+        <line class="cls-1" x1="18.27" y1="23.62" x2="32" y2="23.62"/>
+        <line class="cls-1" x1="18.16" y1="31.88" x2="32" y2="31.88"/>
+      </g>
+      <g>
+        <path class="cls-1" d="M23.89,19.77s-4.82,7.48,0,16.2"/>
+        <path class="cls-1" d="M26.12,19.77s4.82,7.48,0,16.2"/>
+      </g>
+    </g>
+  </g>
+</svg>

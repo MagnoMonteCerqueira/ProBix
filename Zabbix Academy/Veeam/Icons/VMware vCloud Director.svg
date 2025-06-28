@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Software_1" data-name="Software 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="vCloud_Director" data-name="vCloud Director">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-2" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <path class="cls-3" d="M26.34,24.75l4.22-4.22h5.66v-6.78h-6.78v5.77l-4.16,4.16h-4.47v-3.16h2.64v-6.78h-6.78v6.78h2.64v3.16h-5.53v12.56h12.56v-5.53h3.1v2.64h6.78v-6.77h-6.78v2.64h-3.1v-4.47ZM25.59,29.21h-2.14v-1.58l2.14-2.14v3.72ZM24.53,24.44l-2.14,2.14h-1.58v-2.14h3.72ZM25.59,35.49h-11.06v-11.06h4.78v2.14h-2.64v6.77h6.78v-2.64h2.14v4.78Z"/>
+  </g>
+</svg>

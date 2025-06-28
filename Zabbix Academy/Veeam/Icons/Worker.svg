@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Veeam_product_5" data-name="Veeam product 5">
+    <rect id="BG" class="cls-2" x="0" width="50" height="50"/>
+  </g>
+  <g id="Veeam_product_4" data-name="Veeam product 4">
+    <g id="_Workers" data-name=" Workers">
+      <rect id="BG-2" data-name="BG" class="cls-2" x="0" width="50" height="50"/>
+      <path class="cls-3" d="M36.25,25c0,6.22-5.04,11.25-11.25,11.25s-11.25-5.04-11.25-11.25,5.04-11.25,11.25-11.25,11.25,5.04,11.25,11.25Z"/>
+      <g>
+        <polygon class="cls-4" points="17.97 23.81 20.77 21.7 17.54 20.32 17.97 23.81"/>
+        <path class="cls-1" d="M18.73,21.66c1.31-2.67,4.18-4.23,7.13-3.88s5.34,2.57,6,5.36"/>
+      </g>
+      <g>
+        <polygon class="cls-4" points="32.03 26.19 29.23 28.3 32.46 29.67 32.03 26.19"/>
+        <path class="cls-1" d="M31.27,28.34c-1.31,2.67-4.18,4.23-7.13,3.88s-5.34-2.57-6-5.36"/>
+      </g>
+      <path class="cls-4" d="M21.15,21.78h.86l1.22,5.11h.03l1.46-5.11h.7l1.43,5.11h.03l1.21-5.11h.78l-1.61,6.44h-.82l-1.38-5.02h-.03l-1.43,5.02h-.82l-1.62-6.44Z"/>
+    </g>
+  </g>
+</svg>

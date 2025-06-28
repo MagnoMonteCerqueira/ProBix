@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Software_1" data-name="Software 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Windows">
+    <rect id="BG" class="cls-1" width="50" height="50"/>
+    <path class="cls-3" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <polygon class="cls-2" points="33.5 24.94 23.55 25.05 23.55 18.07 33.5 16 33.5 24.94"/>
+      <polygon class="cls-2" points="22.03 25.07 15.78 25.13 15.78 19.52 22.03 18.23 22.03 25.07"/>
+      <polygon class="cls-2" points="22.03 26.65 22.03 33.28 15.78 31.98 15.78 26.58 22.03 26.65"/>
+      <polygon class="cls-2" points="23.55 26.67 33.5 26.78 33.5 35.5 23.55 33.45 23.55 26.67"/>
+    </g>
+  </g>
+</svg>

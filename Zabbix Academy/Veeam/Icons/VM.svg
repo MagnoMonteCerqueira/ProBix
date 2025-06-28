@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="VMs" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #505861;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Virtual_machine" data-name="Virtual machine">
+    <rect id="BG" class="cls-2" width="50" height="50"/>
+    <path class="cls-1" d="M32.13,10H12c-1.1,0-2,.9-2,2v26c0,1.1.9,2,2,2h26c1.1,0,2-.9,2-2v-20.13c0-.53-.21-1.04-.59-1.41l-5.87-5.87c-.38-.38-.88-.59-1.41-.59Z"/>
+    <path class="cls-3" d="M15.46,21.14h1.94l2.09,6.3h.04l2.07-6.3h1.76l-3,8.58h-1.91l-3-8.58Z"/>
+    <path class="cls-3" d="M24.71,21.14h2.59l1.88,5.94h.05l1.87-5.94h2.56v8.58h-1.87v-6.31h-.04l-1.99,6.31h-1.44l-1.97-6.31h-.05v6.31h-1.6v-8.58Z"/>
+  </g>
+</svg>

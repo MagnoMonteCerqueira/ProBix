@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_product_1" data-name="Veeam product 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00d15f;
+      }
+    </style>
+  </defs>
+  <g id="Veeam_Backup_Enterprise_Manager" data-name="Veeam Backup Enterprise Manager">
+    <g>
+      <rect id="BG" class="cls-1" width="50" height="50"/>
+      <path class="cls-2" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    </g>
+    <g>
+      <path class="cls-3" d="M35.96,16.03c0-1.29-.2-1.54-1.52-1.53h0s-9.75,0-9.75,0v1.66h9.34c.29,0,.26.12.27.28h0v9.12h1.65v-9.52h0Z"/>
+      <path class="cls-3" d="M14.11,34.96c0,1.28.21,1.54,1.52,1.53h0s9.74,0,9.74,0v-1.65h-9.34c-.29,0-.26-.12-.27-.29h0v-8.93h-1.65v9.34h0Z"/>
+      <polygon class="cls-3" points="35.57 27.46 34.31 27.46 34.23 27.46 34.23 34.78 26.93 34.78 26.93 34.85 26.92 34.85 26.92 36.11 26.93 36.11 26.93 36.47 35.93 36.47 35.93 36.03 35.93 34.78 35.93 27.46 35.57 27.46"/>
+      <g>
+        <rect class="cls-3" x="19.3" y="25.82" width="5.07" height="6.97"/>
+        <rect class="cls-3" x="25.63" y="20.12" width="5.07" height="12.67"/>
+      </g>
+      <polygon class="cls-3" points="21.05 14.5 21.05 20.1 15.95 15.01 14.54 16.42 19.63 21.51 14.04 21.51 14.04 23.61 23.14 23.61 23.14 14.5 21.05 14.5"/>
+    </g>
+  </g>
+</svg>

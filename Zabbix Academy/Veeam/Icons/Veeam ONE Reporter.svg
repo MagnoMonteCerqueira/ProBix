@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Veeam_product_1" data-name="Veeam product 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #00d15f;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+
+      .cls-3, .cls-2, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Veeam_ONE_Reporter" data-name="Veeam ONE Reporter">
+    <rect id="BG" class="cls-3" width="50" height="50"/>
+    <path class="cls-2" d="M33.19,8H10c-1.1,0-2,.9-2,2v30c0,1.1.9,2,2,2h30c1.1,0,2-.9,2-2v-23.19c0-.53-.21-1.04-.59-1.41l-6.81-6.81c-.38-.38-.88-.59-1.41-.59Z"/>
+    <g>
+      <path class="cls-4" d="M24.07,26.07v-9.57c-5.28,0-9.57,4.28-9.57,9.57s4.28,9.57,9.57,9.57,9.57-4.28,9.57-9.57h-9.57Z"/>
+      <path class="cls-1" d="M25.84,24.16h8.66c0-4.78-3.88-8.66-8.66-8.66v8.66Z"/>
+    </g>
+  </g>
+</svg>
