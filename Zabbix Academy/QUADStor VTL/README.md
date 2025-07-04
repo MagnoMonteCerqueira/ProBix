@@ -36,6 +36,7 @@ Se você for utilizar a solução em sistema operacional diferente, leia a docum
 ## 🚀 Passos Básicos de Implantação
 
 1. Copie o **Install_QUADStor_VTL-Debian-12.sh** para o servidor Debian na pasta /tmp.
+   # wget https://raw.githubusercontent.com/MagnoMonteCerqueira/ProBix/refs/heads/main/Zabbix%20Academy/QUADStor%20VTL/Package/Install_QUADStor_VTL-Debian-12.sh
 2. Execute o comando **chmod +x Install_QUADStor_VTL-Debian-12.sh**, para tornalo executavel.
 3. Execute o script **./Install_QUADStor_VTL-Debian-12.sh**.
 4. Acesse o sistema via web http://IP/.
