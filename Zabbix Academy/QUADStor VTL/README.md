@@ -23,7 +23,7 @@ Este repositório contém um pacote completo para instalar o QUADStor VTL no Deb
 
 
 > ⚠️ **Importante:**  
-Se você for utilizar as imagens em um ambiente diferente, ajuste o caminho de acordo com a estrutura do seu servidor Grafana.
+Se você for utilizar a solução em sistema operacional diferente, leia a documentação em [www.quadstor.com](https://www.quadstor.com) .
 
 ---
 
@@ -38,7 +38,7 @@ Se você for utilizar as imagens em um ambiente diferente, ajuste o caminho de a
 1. Copie o **Install_QUADStor_VTL-Debian-12.sh** para o servidor Debian na pasta /tmp.
 2. Execute o comando **chmod +x Install_QUADStor_VTL-Debian-12.sh**, para tornalo executavel.
 3. Execute o script **./Install_QUADStor_VTL-Debian-12.sh**.
-4. Importe o **template YAML** no Zabbix.
+4. Acesse o sistema via web http://IP/.
 ---
 
 ## 👨‍💻 Autor
