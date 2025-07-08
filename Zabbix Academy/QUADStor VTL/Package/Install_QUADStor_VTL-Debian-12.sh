@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Instalação do QUADStor VTL no Debian 12 LTS
-# Autor: Magno M Cerqueira (corrigido por ChatGPT)
+# Autor: Magno M Cerqueira 
 # Testado em: Debian 12.11.0 LTS (x86_64)
 
 set -e
