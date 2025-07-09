@@ -218,6 +218,48 @@ Fita virtual conectada
 Agora você pode configurar seus jobs de backup normalmente, utilizando a VTL como uma biblioteca de fitas física.
 
 ---
+⚠️ Dica extra!
+## Protegendo o acesso à interface da web
+
+Sem qualquer configuração adicional, a interface web pode ser acessada por qualquer pessoa a partir de um navegador. O acesso pode ser restringido e protegido em apenas duas etapas.
+
+autenticação http usando htaccess e htpasswd ou com o novo método de autenticação VTL
+Acesso SSL
+A configuração é única e persistente em todas as atualizações do quadstor.
+
+Autenticação VTL
+A partir da versão 3.0.43, o daemon VTL pode autenticar usuários que acessam a interface web. Usuários não autorizados são redirecionados para uma página de login. Para habilitar a autenticação VTL
+
+Adicione o seguinte em /quadstorvtl/etc/quadstor.conf. Crie o arquivo se ele não existir.
+
+Execute o seguinte comando para recarregar o arquivo de configuração
+
+Adicione um novo usuário para acessar a interface de gerenciamento web. Um novo usuário pode ser adicionado por
+
+/quadstorvtl/bin/vtuser -a -u <username> --p <passwd>
+
+Nomes de usuário e senhas precisam ter no mínimo 8 caracteres e no máximo 32 caracteres.
+
+Nomes de usuário e senhas precisam ser caracteres ASCII e podem ser _ ou -
+
+Usuário somente leitura
+Um usuário somente leitura é um usuário com acesso não administrativo. Um
+usuário somente leitura pode ser criado por
+
+Um usuário conectado somente leitura pode visualizar apenas a configuração VTL,
+configuração de disco, etc., mas não pode fazer modificações, como adicionar novos usuários, novos
+discos, etc. Por enquanto, esta opção de usuário pode não ser muito útil.
+
+Listando usuários
+/quadstorvtl/bin/vtuser --list 
+
+Excluir um usuário
+/quadstorvtl/bin/vtuser -x -u <user name>
+
+Log out
+Fechar a aba/janela do navegador desconectará o usuário automaticamente. Além disso, reiniciar o daemon VTL desconectará todos os usuários. O botão de logout ainda está em andamento.
+
+---
 
 **Autor:** Magno M Cerqueira  
 🔗 [www.linkedin.com/in/magnomontecerqueira](https://www.linkedin.com/in/magnomontecerqueira/)
