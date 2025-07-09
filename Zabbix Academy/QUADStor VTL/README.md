@@ -10,7 +10,8 @@ Este repositório contém um pacote completo para instalar o QUADStor VTL no Deb
 │ ├── 1 - README.md
 │ └── 2 - Package/quadstor-vtl-std-3.0.79.26-debian12-x86_64.deb
 │ └── 2 - Package/Install_QUADStor_VTL-Debian-12.sh
-│ └── 3.Imagens
+│ └── 3 - Guia Completo QUADStor VTL no Debian 12.pdf
+│ └── 4.Imagens
 ```
 
 ### ✅ Descrição das Pastas:
