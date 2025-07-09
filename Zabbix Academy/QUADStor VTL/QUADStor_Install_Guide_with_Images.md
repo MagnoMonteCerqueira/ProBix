@@ -135,10 +135,19 @@ Uma vez instalado o QUADStor VTL, iremos ao IP da VM, onde acessaremos e veremos
    - Changer Definitions (`.txt`)
    - Drive Definitions (`.txt`)
 
+3.1 local disponivel com os dados para baixar! Clique sempre Submit ao fazer upload de cada arquivo.
 ![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/10.JPG) 
+
+3.2 Como fazer upload do arquivo changer-definitions.txt
 ![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/11.JPG)
+
+3.3 Tela apos upload!
 ![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/12.JPG)
+
+3.4 Como fazer upload do arquivo drive-definitions.txt
 ![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/14.JPG)
+
+3.5 Tela apos upload!
 ![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/15.JPG)
 
 4. Volte em **Virtual Libraries** → **Add VTL**
