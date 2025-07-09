@@ -17,28 +17,44 @@ Este guia mostra como instalar e configurar o [QUADStor VTL](http://quadstor.com
 ## ⚙️ Passo a Passo Completo
 
 ### 1. Atualize o sistema
+Antes de instalar o pacote QUADStor, temos que instalar as dependências do mesmo, como sempre, faremos uma atualização dos pacotes antes:
 
 ```bash
 apt update && apt upgrade -y
 ```
 
 ### 2. Instale as dependências para compilação dos módulos
+Agora instalaremos os pacotes necessários para o QUADStor:
 
 ```bash
 apt-get install uuid-runtime build-essential sg3-utils apache2 gzip xz-utils postgresql libpq-dev psmisc linux-headers-$(uname -r) -y
 a2enmod cgi
 ```
 
+ou
+
+```bash
+apt-get install uuid-runtime
+apt-get install build-essential
+apt-get install sg3-utils
+apt-get install apache2
+apt-get install psmisc
+apt-get install linux-headers-generic
+a2enmod cgi
+```
+
 ### 3. Baixe o pacote .deb do QUADStor
+Se tudo correu bem, agora podemos baixar e instalar o pacote QUADStor:
 
 ```bash
 cd /tmp
-wget https://www.quadstor.com/vtldownloads/quadstor-vtl-ext-3.0.28-debian-x86_64.deb
+wget https://www.quadstor.com/vtlstd/quadstor-vtl-std-3.0.79.26-debian12-x86_64.deb
 ```
 
 ⚠️ Se o link estiver fora do ar, consulte: http://quadstor.com/downloads.html
 
 ### 4. Instale o pacote
+Esse processo não leva mais que 2 minutos, quando tudo estiver pronto, teremos finalizado o processo de instalação, simples, certo?
 
 ```bash
 dpkg -i quadstor-vtl-*.deb
@@ -58,7 +74,7 @@ systemctl restart apache2
 
 Acesse o IP da VM pelo navegador: `http://<IP-do-servidor>/`
 
-Uma vez instalado, você verá a interface semelhante a:
+Uma vez instalado o QUADStor VTL, iremos ao IP da VM, onde acessaremos e veremos algo similar a isso, com a versão instalada:
 
 ![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/01.JPG)
 
@@ -205,3 +221,4 @@ Agora você pode configurar seus jobs de backup normalmente, utilizando a VTL co
 
 **Autor:** Magno M Cerqueira  
 🔗 [www.linkedin.com/in/magnomontecerqueira](https://www.linkedin.com/in/magnomontecerqueira/)
+
