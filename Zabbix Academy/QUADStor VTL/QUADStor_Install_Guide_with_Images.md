@@ -64,27 +64,27 @@ Uma vez instalado, você verá a interface semelhante a:
 
 1. Adicione discos adicionais para armazenar fitas virtuais.
 
-📷 **img02** – Disco de 500GB adicionado
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/02.JPG)
 
 2. Vá até a aba **System** e reinicie o sistema.
 
-📷 **img03** – Tela de reinicialização
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/03.JPG)
 
 3. Após o reboot, acesse novamente o IP → vá até **Physical Storage** → clique em **Add**.
 
-📷 **img04** – Disco visível após reinício
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/04.JPG)
 
 4. Selecione o único Storage Pool disponível e clique em **Enviar**.
 
-📷 **img05** – Seleção do pool
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/05.JPG)
 
 5. O disco será inicializado como fita virtual.
 
-📷 **img06** – Processo de inicialização
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/06.JPG)
 
 6. Após segundos, sua fita virtual estará pronta.
 
-📷 **img07** – Fita virtual criada
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/07.JPG)
 
 ---
 
@@ -92,25 +92,25 @@ Uma vez instalado, você verá a interface semelhante a:
 
 1. Vá em **Virtual Libraries** → clique em **Add VTL**
 
-📷 **img08** – Erro ao adicionar VTL sem definições
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/08.JPG)
 
 2. Vá até **Device Definitions** para corrigir.
 
-📷 **img09** – Acesso às definições
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/09.JPG)
 
 3. Importe:
    - Changer Definitions (`.txt`)
    - Drive Definitions (`.txt`)
 
-📷 **img10** – Arquivos no GitHub para download  
-📷 **img11** – Importação do Changer  
-📷 **img12** – Confirmação da importação  
-📷 **img14** – Importação dos Drives  
-📷 **img15** – Drives disponíveis
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/10.JPG) 
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/11.JPG)
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/12.JPG)
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/14.JPG)
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/15.JPG)
 
 4. Volte em **Virtual Libraries** → **Add VTL**
 
-📷 **img16** – Tela de criação da VTL
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/10.JPG)
 
 ### Configuração de exemplo:
 
