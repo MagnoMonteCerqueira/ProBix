@@ -194,6 +194,7 @@ Media Pool e Slots livres
 
 Fita virtual conectada
 ![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/32.JPG)
+
 ---
 
 ## 🎉 Finalização
