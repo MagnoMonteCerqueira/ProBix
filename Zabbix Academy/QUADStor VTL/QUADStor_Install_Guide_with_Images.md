@@ -110,7 +110,7 @@ Uma vez instalado, você verá a interface semelhante a:
 
 4. Volte em **Virtual Libraries** → **Add VTL**
 
-![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/10.JPG)
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/16.JPG)
 
 ### Configuração de exemplo:
 
@@ -121,16 +121,18 @@ Uma vez instalado, você verá a interface semelhante a:
 - Number of VSlots: `20`
 - Number of IE Ports: `4`
 
-📷 **img17** – Resumo da VTL criada  
-📷 **img18** – Fitas virtuais visíveis
+Resumo da VTL criada  
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/17.JPG)
 
+ Fitas virtuais visíveis
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/18.JPG)
 ---
 
 ## 💾 Adicionando Fitas Virtuais
 
 1. Vá em **VCartridge** → **Add VCartridge**
 
-📷 **img19** – Tela de adição de fitas
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/19.JPG)
 
 Exemplo:
 
@@ -140,8 +142,11 @@ Exemplo:
 - Number of VCartridges: `20`
 - Prefix: `QUAD00`
 
-📷 **img20** – Fitas adicionadas com sucesso  
-📷 **img21** – Biblioteca virtual pronta
+Fitas adicionadas com sucesso 
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/20.JPG)
+
+Biblioteca virtual pronta
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/21.JPG)
 
 ---
 
@@ -149,39 +154,46 @@ Exemplo:
 
 1. No Veeam Server, abra o **iSCSI Initiator**
 
-📷 **img22** – Tela do iSCSI Initiator
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/22.JPG)
 
 2. Adicione o IP do QUADStor VTL → Conecte os dispositivos
 
-📷 **img23** – Conexão de Autoloader e Drives
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/23.JPG)
 
 3. Verifique o **Gerenciador de Dispositivos**
 
-📷 **img24** – Fita detectada no Windows
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/24.JPG)
 
 4. No Veeam, vá em **Tape Infrastructure** → **Add Tape Server**
 
-📷 **img25** – Início da adição
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/25.JPG)
 
 5. Use o mesmo servidor Veeam
+   
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/26.JPG)
 
-📷 **img26** – Avançar no assistente
+7. Configure regras de rede, se necessário
 
-6. Configure regras de rede, se necessário
-
-📷 **img27** – Tela de regras
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/27.JPG)
 
 7. Instalação do Tape Proxy
 
-📷 **img28** – Tape Proxy sendo instalado  
-📷 **img29** – Tarefas concluídas
+Tape Proxy sendo instalado  
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/28.JPG)
+
+Tarefas concluídas
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/29.JPG)
 
 8. Finalize e visualize a estrutura
 
-📷 **img30** – Tape Server finalizado  
-📷 **img31** – Media Pool e Slots livres  
-📷 **img32** – Fita virtual conectada
+Tape Server finalizado
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/30.JPG)
 
+Media Pool e Slots livres  
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/31.JPG)
+
+Fita virtual conectada
+![alt tag](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/32.JPG)
 ---
 
 ## 🎉 Finalização
