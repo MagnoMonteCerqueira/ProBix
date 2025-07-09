@@ -60,7 +60,7 @@ Acesse o IP da VM pelo navegador: `http://<IP-do-servidor>/`
 
 Uma vez instalado, você verá a interface semelhante a:
 
-📷 **img01** – Tela inicial do QUADStor
+([https://meudominio.com/img/img01.png](https://github.com/MagnoMonteCerqueira/ProBix/blob/main/Zabbix%20Academy/QUADStor%20VTL/Imagens/01.JPG))
 
 1. Adicione discos adicionais para armazenar fitas virtuais.
 
