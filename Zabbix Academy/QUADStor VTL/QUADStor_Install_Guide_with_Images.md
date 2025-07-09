@@ -256,6 +256,10 @@ A partir da versão 3.0.43, o daemon VTL pode autenticar usuários que acessam a
 
 Edite ou crie `/quadstorvtl/etc/quadstor.conf`
 
+```bash
+EnableAuth=1
+```
+
 #### Adicione um novo usuário:
 ```bash
 /quadstorvtl/bin/vtuser -a -u <username> --p <passwd>
