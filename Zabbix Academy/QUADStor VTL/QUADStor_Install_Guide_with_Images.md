@@ -48,7 +48,8 @@ dpkg -i quadstor-vtl-*.deb
 
 ```bash
 systemctl enable quadstorvtl
-systemctl start quadstorvtl
+systemctl restart quadstorvtl
+systemctl restart apache2
 ```
 
 ---
